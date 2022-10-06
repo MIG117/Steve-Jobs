@@ -1,0 +1,81 @@
+#include <stdio.h>
+#include <conio.h>
+void main(void) {
+printf("\n8888888      8888888b.        d8888 8888888b.  8888888888      88888888888 .d88888b.       8888888b.  8888888b.  8888888888        d8888 888b     d888 ");
+printf("\n  888        888  \"Y88b      d88888 888   Y88b 888                 888    d88P\" \"Y88b      888  \"Y88b 888   Y88b 888              d88888 8888b   d8888 ");
+printf("\n  888        888    888     d88P888 888    888 888                 888    888     888      888    888 888    888 888             d88P888 88888b.d88888 ");
+printf("\n  888        888    888    d88P 888 888   d88P 8888888             888    888     888      888    888 888   d88P 8888888        d88P 888 888Y88888P888 ");
+printf("\n  888        888    888   d88P  888 8888888P\"  888                 888    888     888      888    888 8888888P\"  888           d88P  888 888 Y888P 888 ");
+printf("\n  888        888    888  d88P   888 888 T88b   888                 888    888     888      888    888 888 T88b   888          d88P   888 888  Y8P  888 ");
+printf("\n  888        888  .d88P d8888888888 888  T88b  888                 888    Y88b. .d88P      888  .d88P 888  T88b  888         d8888888888 888   \"   888 ");
+printf("\n8888888      8888888P\" d88P     888 888   T88b 8888888888          888     \"Y88888P\"       8888888P\"  888   T88b 8888888888 d88P     888 888       888 ");
+                                                                                                                                                       
+                                                                                                                                                       
+                                                                                                                                                       
+printf("\n																										");
+printf("\n                          :yhhyyo-............`````.-://///://++osyyhhhhy.                          ");
+printf("\n                         /mNNNmh/-....`````````````..-://://++osyhdmNNNNNd-                         ");
+printf("\n                        +mNmNmh+-..```` `         ```..--.--:+ossyhdmmNNNNd:                        ");
+printf("\n                       `ymdmmms:..```              ````.``..-:+osyhdmmNNNNmd:                       ");
+printf("\n                      oNmmddd+-.```                ``````..-:+ssyhddmNNNNmmd-                      ");
+printf("\n                      `ymmdddh/..```                ``````..-:+oyhhhdmNNNNNmm-                      ");
+printf("\n                       +ddddhs:..```                ``````.-:/+oyhhhdmNNNNNmm/                      ");
+printf("\n                       :hhdhyo/-.```                 `````.:://+ssyhddmmmNNmm+                      ");
+printf("\n                       /yyhy++:-.``                  `````.---:/+oyhddmmdmNNms                      ");
+printf("\n                      `oyhhs+/:.```                     ````.--:/+yhddmmddNNNd`                     ");
+printf("\n                     ./yhhyo///.```                     ````..--:+syhdmmmdmNNd+-                    ");
+printf("\n                    `yhsymhy++:.```                     ````.-.-:/oshdmmNmmNNNNNs                   ");
+printf("\n                    -ddosydys+-``..```         ``````````.......-/osyhmmNNNNNMNNh                   ");
+printf("\n                    .hs++oydy:..../syo//:-.`````..``````.:/+++oooyhddmmmmNNNNNNmy                   ");
+printf("\n                     +osoohhy/.`.`..-/oshhyys+/:-.```-/oyhhhddddhyyhdmmmmNNNNNNd:                   ");
+printf("\n                     -sddhys:+-```.+ss:yhmdsho+:`````:hmmmmshdmddmmdhdmmmmNNNNNh                    ");
+printf("\n                     `/hh/++-./.```.````::::/:.-.` `-+ddmdy/:+o+oyddhhhddmmmmNNd                    ");
+printf("\n                      -+yo//-.....`    ```..-..::```./yyyho:...--/osooyhdmmdmNms                    ");
+printf("\n                      ./://+:.````      ```````.`  `./yyhyo/-....----+ohdmmdmmm:                    ");
+printf("\n                       -.-/o/-.``       ```````     `/yyss+:-.```..-:/ydmmmdmmd`                    ");
+printf("\n                       .--:o+/-.``````  ```````     `/shhyo/-....-::+shmmmmdmms                     ");
+printf("\n                        .-:/++/:.````` ``````````   `-shmmh/::---:+osymmNNmddy`                     ");
+printf("\n                         `.::++:-.````````````` ``  `/hhhdms/::::/oyhdmNmmmh+.                      ");
+printf("\n                          `-://:-.````   ```` ````  `:ydmmNds/::/+oydmNmmmmo                        ");
+printf("\n                           --:::-..`````````   ..```.omNMNNdyo+++shdmmmmmmm:                        ");
+printf("\n                           `:-::-...```````````.:+:+ohNMMNNdhhoosshmddmmdmd.                        ");
+printf("\n                            .:::-...`````.--.-:-/osyyyhmNmmmddddhydmdhhmmmy`                        ");
+printf("\n                             -::-.-.```.-/+//-/+oooyhyydmmmNNNNdhhydyhdmmm/                         ");
+printf("\n                              -:----...-/ss++/:/++++ooyhdmNNNmddosyyydmmmh`                         ");
+printf("\n                               .:--::..:+o-``````....-:/oyhdddhyyyhhhmmmm:                          ");
+printf("\n                                .:/+o+:/+-`````..:://o++oyhdddyoydmmmmdmm-                          ");
+printf("\n                                 :+ss+/+-.````.-/oosyyyyhdddhyoodNNmmdmNNd.                         ");
+printf("\n                                 -//++//:-.`````---:/+ooyhyossoomNNNNNMMMMmo-                       ");
+printf("\n                                 `o++o++:--..-.`.....:/+ooo//ohdmNNNMMMMMMMMNo-`                    ");
+printf("\n                                  +oooo+/-.`..---:/:++soo+ooohmNNNMMMMMMMMMMMMMdhyo+-`              ");
+printf("\n                                 `h+++oso/--.-/+/o+--/hyoosshNMMMMMMMMMMMMMMMMMMMMMMMds+:.``        ");
+printf("\n                                 .Ny+//+syy+///------:mmdddNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmhs/.`    ");
+printf("\n                              .:smNNds++/+osy:`````.-:sNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdo:` ");
+printf("\n                           `omNNNNNMMMmhs+//+/.```````./hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/");
+printf("\n                       `/sdNNMMMNMNMMMMMMMNd+/:.``  ````.:yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo");
+printf("\n                   `:ohNNNMMMMMMMNNMMMMMMMM/.```..`     `-/+hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo");
+printf("\n                -+hmNMMMMMMMMNMNNMMMMMMMMMN.``````.` `   `/sodMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo");
+printf("\n             .+hmNMMMMMMMMMMNNNMNNNMMMMMMMM+`````````````-oyymNmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo");
+printf("\n         `-+hmMMMMMMMMMMMMMMMNNNNNNMMMMMMh/:.`````.--..-:+oydmNmhNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo");
+printf("\n     `-+ydNNMMMMMMMMMMMMMMMMMMNNNNNNNNMNh-....``` .:+/://+oshdmNmmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo");
+printf("\n `:ohmNNMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNm+.``````..:++++ooosyhdmNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo");
+printf("\n -sdNMMMMMMMMMMMMMMMMMNNNMMMMNNNNNNNNNd/.-```````.-/o+/syyssyhhdmNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo");
+printf("\n oMMMMMMMMMMMMMMMMMMMNNNNMNNNNNNNNNNNN/```````.---:/+++osssssyhdmmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo");
+printf("\n oMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNm.````..-/::::////++ossssyddmNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo");
+printf("\n oMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNm-````.-://:///+//+++osssyhddmmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo");
+printf("\n oMMMMMMMMMMMMMMMMMMMMNNNNNNNMNMMMMMMN/..-::/+++///+++///+osssyyhddmmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo");
+printf("\n +hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhs:--::::::::/::::::///+++oossyyhhddddddddddhhhhhhhhhhhhhhhhhhh+");
+printf("\n\n");
+printf("\n .d8888b. 88888888888 8888888888 888     888 8888888888        888888  .d88888b.  888888b.    .d8888b.");  
+printf("\nd88P  Y88b    888     888        888     888 888                 \"88b d88P" "Y88b 888  \"88b  d88P  Y88b ");
+printf("\nY88b.         888     888        888     888 888                  888 888     888 888  .88P  Y88b.      ");
+printf("\n \"Y888b.      888     8888888    Y88b   d88P 8888888              888 888     888 8888888K.   \"Y888b.   ");
+printf("\n    \"Y88b.    888     888         Y88b d88P  888                  888 888     888 888  \"Y88b     \"Y88b. ");
+printf("\n      \"888    888     888          Y88o88P   888                  888 888     888 888    888       \"888 ");
+printf("\nY88b  d88P    888     888           Y888P    888                  88P Y88b. .d88P 888   d88P Y88b  d88P ");
+printf("\n \"Y8888P\"     888     8888888888     Y8P     8888888888           888  \"Y88888P\"  8888888P\"   \"Y8888P\"  ");
+printf("\n                                                                .d88P                                   ");
+printf("\n                                                              .d88P\"                                    ");
+printf("\n                                                             888P\"                                      ");
+getch();
+}
